@@ -1,0 +1,6 @@
+== Voronin Studio 2013 Repository
+
+1) Clone repo with git clone
+2) Create your branch
+3) Install bundles
+4) Run!

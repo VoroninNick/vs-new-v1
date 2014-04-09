@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  published: false
+  name: MyString
+  short_description: MyText
+  full_description: MyText
+  avatar_file_name: MyString
+  avatar_content_type: MyString
+  avatar_file_size: 1
+  avatar_updated_at: 2013-03-28 00:22:11
+
+two:
+  published: false
+  name: MyString
+  short_description: MyText
+  full_description: MyText
+  avatar_file_name: MyString
+  avatar_content_type: MyString
+  avatar_file_size: 1
+  avatar_updated_at: 2013-03-28 00:22:11
